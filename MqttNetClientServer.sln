@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7365E9E6-69BE-4C3E-B261-5E9FC916EC32}"
 	ProjectSection(SolutionItems) = preProject
-		ReadMe.txt = ReadMe.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shengtai.MqttNet", "Shengtai.MqttNet\Shengtai.MqttNet.csproj", "{9E468BCE-B5B0-47DE-8488-EEC8DB816058}"
