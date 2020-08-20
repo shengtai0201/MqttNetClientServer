@@ -1,0 +1,11 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/packages
+/.vs
+/Shengtai.MqttNet/bin/Debug/netcoreapp3.1
+/Shengtai.MqttNet/obj
+/Shengtai.MqttNet.ClientServer/bin/Debug/netcoreapp3.1
+/Shengtai.MqttNet.ClientServer/obj
+/Shengtai.MqttNet.TemperatureSpeed/obj
